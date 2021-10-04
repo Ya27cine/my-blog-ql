@@ -21,6 +21,20 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
+
+## What you’ll learn
+
+   -  Learn GraphQL
+   -  Creating GraphQL Server using Laravel PHP Framework
+   -  Building SPA in Vue JavaScript Framework
+   -  Tailwind CSS 2
+   -  Using Vue Router
+   -  Using Lighthouse library to create GraphQL server
+   -  Includes Vue JS and Vue-Apollo
+   -  Creating advanced, modern applications using PHP
+   -  Full Source code included!
+
+
 ## Learning Laravel
 
 Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.

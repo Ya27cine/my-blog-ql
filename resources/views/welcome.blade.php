@@ -10,8 +10,7 @@
         
     </head>
     <body class="antialiased">
-        <div id="app">
-
+        <div id="app"></div>
 
 <!-- This example requires Tailwind CSS v2.0+ -->
 <nav class="bg-gray-800">
